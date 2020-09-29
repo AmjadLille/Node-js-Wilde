@@ -1,7 +1,7 @@
 var cowsay = require("cowsay");
 
 console.log(cowsay.say({
-	text : "hello boy",
+	text : "hello I'm Amjad from Lille Campus ",
 	e : "oO",
 	T : "U "
 }));
